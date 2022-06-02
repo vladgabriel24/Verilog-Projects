@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Sumator_cifre_zecimale.srcs/sources_1/new/CMP.v" \
+"../../../../Sumator_cifre_zecimale.srcs/sources_1/new/DIGIT_SUM.v" \
+"../../../../Sumator_cifre_zecimale.srcs/sources_1/new/TOP.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

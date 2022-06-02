@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Vlad/Desktop/Sumator_cifre_zecimale/Sumator_cifre_zecimale.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/Vlad/Desktop/Sumator_cifre_zecimale/Sumator_cifre_zecimale.srcs/sim_1/new/TB.v,1649109242,verilog,,,,TB,,,,,,,,
+C:/Users/Vlad/Desktop/Sumator_cifre_zecimale/Sumator_cifre_zecimale.srcs/sources_1/new/CMP.v,1649107353,verilog,,C:/Users/Vlad/Desktop/Sumator_cifre_zecimale/Sumator_cifre_zecimale.srcs/sources_1/new/DIGIT_SUM.v,,CMP,,,,,,,,
+C:/Users/Vlad/Desktop/Sumator_cifre_zecimale/Sumator_cifre_zecimale.srcs/sources_1/new/DIGIT_SUM.v,1649110245,verilog,,C:/Users/Vlad/Desktop/Sumator_cifre_zecimale/Sumator_cifre_zecimale.srcs/sources_1/new/TOP.v,,DIGIT_SUM,,,,,,,,
+C:/Users/Vlad/Desktop/Sumator_cifre_zecimale/Sumator_cifre_zecimale.srcs/sources_1/new/TOP.v,1649108366,verilog,,C:/Users/Vlad/Desktop/Sumator_cifre_zecimale/Sumator_cifre_zecimale.srcs/sim_1/new/TB.v,,TOP,,,,,,,,
