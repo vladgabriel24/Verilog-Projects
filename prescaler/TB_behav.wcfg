@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="47001fs"></ZoomEndTime>
+      <Cursor1Time time="245000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="245"></NameColumnWidth>
+      <ValueColumnWidth column_width="119"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="23" />
+   <wvobject fp_name="/TB/clock_s" type="logic">
+      <obj_property name="ElementShortName">clock_s</obj_property>
+      <obj_property name="ObjectShortName">clock_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/rst_n_s" type="logic">
+      <obj_property name="ElementShortName">rst_n_s</obj_property>
+      <obj_property name="ObjectShortName">rst_n_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/save_n_s" type="logic">
+      <obj_property name="ElementShortName">save_n_s</obj_property>
+      <obj_property name="ObjectShortName">save_n_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/sel_s" type="logic">
+      <obj_property name="ElementShortName">sel_s</obj_property>
+      <obj_property name="ObjectShortName">sel_s</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/data_s" type="array">
+      <obj_property name="ElementShortName">data_s[3:0]</obj_property>
+      <obj_property name="ObjectShortName">data_s[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/wr_addr_s" type="array">
+      <obj_property name="ElementShortName">wr_addr_s[3:0]</obj_property>
+      <obj_property name="ObjectShortName">wr_addr_s[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/instructions_s" type="array">
+      <obj_property name="ElementShortName">instructions_s[3:0]</obj_property>
+      <obj_property name="ObjectShortName">instructions_s[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/prescale/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/prescale/reset_n" type="logic">
+      <obj_property name="ElementShortName">reset_n</obj_property>
+      <obj_property name="ObjectShortName">reset_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/prescale/sel" type="array">
+      <obj_property name="ElementShortName">sel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">sel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/prescale/out" type="logic">
+      <obj_property name="ElementShortName">out</obj_property>
+      <obj_property name="ObjectShortName">out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/prescale/counter" type="array">
+      <obj_property name="ElementShortName">counter[2:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[2:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/prescale/out_dcd" type="array">
+      <obj_property name="ElementShortName">out_dcd[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out_dcd[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/PC/rst_n" type="logic">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/PC/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/PC/out" type="array">
+      <obj_property name="ElementShortName">out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/RAM/rd_addr" type="array">
+      <obj_property name="ElementShortName">rd_addr[3:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_addr[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/RAM/wr_data" type="array">
+      <obj_property name="ElementShortName">wr_data[3:0]</obj_property>
+      <obj_property name="ObjectShortName">wr_data[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/RAM/wr_addr" type="array">
+      <obj_property name="ElementShortName">wr_addr[3:0]</obj_property>
+      <obj_property name="ObjectShortName">wr_addr[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/RAM/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/RAM/save" type="logic">
+      <obj_property name="ElementShortName">save</obj_property>
+      <obj_property name="ObjectShortName">save</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/RAM/rd_data" type="array">
+      <obj_property name="ElementShortName">rd_data[3:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_data[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/RAM/mem" type="array">
+      <obj_property name="ElementShortName">mem[0:15][3:0]</obj_property>
+      <obj_property name="ObjectShortName">mem[0:15][3:0]</obj_property>
+   </wvobject>
+</wave_config>

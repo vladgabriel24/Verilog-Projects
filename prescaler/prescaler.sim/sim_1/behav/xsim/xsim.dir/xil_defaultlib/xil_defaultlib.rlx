@@ -1,0 +1,15 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Vlad/Desktop/prescaler/prescaler.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sim_1/new/TB.v,1653936331,verilog,,,,TB,,,,,,,,
+C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/TOP.v,1653936826,verilog,,C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/counter_3b.v,,TOP,,,,,,,,
+C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/counter_3b.v,1653913944,verilog,,C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/decoder.v,,counter_3b,,,,,,,,
+C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/decoder.v,1653914303,verilog,,C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/demux2.v,,decoder,,,,,,,,
+C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/demux2.v,1653933024,verilog,,C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/mux2b.v,,demux2,,,,,,,,
+C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/mux2b.v,1653916643,verilog,,C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/osccon_reg.v,,mux2b,,,,,,,,
+C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/osccon_reg.v,1653914512,verilog,,C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/prescaler.v,,osccon_reg,,,,,,,,
+C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/prescaler.v,1653917767,verilog,,C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/program_counter.v,,prescaler,,,,,,,,
+C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/program_counter.v,1653914042,verilog,,C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/ram_instr.v,,program_counter,,,,,,,,
+C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sources_1/new/ram_instr.v,1653916890,verilog,,C:/Users/Vlad/Desktop/prescaler/prescaler.srcs/sim_1/new/TB.v,,ram_instr,,,,,,,,

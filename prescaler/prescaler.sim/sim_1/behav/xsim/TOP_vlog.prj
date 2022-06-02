@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../prescaler.srcs/sources_1/new/counter_3b.v" \
+"../../../../prescaler.srcs/sources_1/new/decoder.v" \
+"../../../../prescaler.srcs/sources_1/new/demux2.v" \
+"../../../../prescaler.srcs/sources_1/new/mux2b.v" \
+"../../../../prescaler.srcs/sources_1/new/osccon_reg.v" \
+"../../../../prescaler.srcs/sources_1/new/prescaler.v" \
+"../../../../prescaler.srcs/sources_1/new/program_counter.v" \
+"../../../../prescaler.srcs/sources_1/new/ram_instr.v" \
+"../../../../prescaler.srcs/sources_1/new/TOP.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
