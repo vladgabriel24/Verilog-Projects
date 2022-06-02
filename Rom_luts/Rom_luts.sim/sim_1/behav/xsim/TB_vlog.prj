@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Rom_luts.srcs/sources_1/new/Demux4.v" \
+"../../../../Rom_luts.srcs/sources_1/new/Mux4.v" \
+"../../../../Rom_luts.srcs/sources_1/new/TOP.v" \
+"../../../../Rom_luts.srcs/sources_1/new/add_block.v" \
+"../../../../Rom_luts.srcs/sources_1/new/and_block.v" \
+"../../../../Rom_luts.srcs/sources_1/new/of_compute.v" \
+"../../../../Rom_luts.srcs/sources_1/new/rom_add.v" \
+"../../../../Rom_luts.srcs/sources_1/new/rom_and.v" \
+"../../../../Rom_luts.srcs/sim_1/new/TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

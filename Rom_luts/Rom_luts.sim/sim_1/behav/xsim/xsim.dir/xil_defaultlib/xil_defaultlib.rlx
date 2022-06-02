@@ -1,0 +1,14 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sim_1/new/TB.v,1648942390,verilog,,,,TB,,,,,,,,
+C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/Demux4.v,1648932281,verilog,,C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/Mux4.v,,Demux4,,,,,,,,
+C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/Mux4.v,1648932001,verilog,,C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/TOP.v,,Mux4,,,,,,,,
+C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/TOP.v,1649091632,verilog,,C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/add_block.v,,TOP,,,,,,,,
+C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/add_block.v,1648929365,verilog,,C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/and_block.v,,add_block,,,,,,,,
+C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/and_block.v,1648942384,verilog,,C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/of_compute.v,,and_block,,,,,,,,
+C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/of_compute.v,1648928740,verilog,,C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/rom_add.v,,of_compute,,,,,,,,
+C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/rom_add.v,1648940231,verilog,,C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/rom_and.v,,rom_add,,,,,,,,
+C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sources_1/new/rom_and.v,1649097567,verilog,,C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.srcs/sim_1/new/TB.v,,rom_and,,,,,,,,

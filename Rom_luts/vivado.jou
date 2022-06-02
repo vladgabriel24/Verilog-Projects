@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat May 21 18:31:56 2022
+# Process ID: 18768
+# Current directory: C:/Users/Vlad/Desktop/Rom_luts
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20932 C:\Users\Vlad\Desktop\Rom_luts\Rom_luts.xpr
+# Log file: C:/Users/Vlad/Desktop/Rom_luts/vivado.log
+# Journal file: C:/Users/Vlad/Desktop/Rom_luts\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Vlad/Desktop/Rom_luts/Rom_luts.xpr
+update_compile_order -fileset sources_1
