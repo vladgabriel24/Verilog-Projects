@@ -1,0 +1,40 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu May 26 17:13:11 2022
+# Process ID: 6640
+# Current directory: C:/Users/Vlad/Desktop/miniprocesor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5956 C:\Users\Vlad\Desktop\miniprocesor\miniprocesor.xpr
+# Log file: C:/Users/Vlad/Desktop/miniprocesor/vivado.log
+# Journal file: C:/Users/Vlad/Desktop/miniprocesor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.xpr
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+update_compile_order -fileset sources_1
+archive_project C:/Users/Vlad/Desktop/miniprocesor.xpr.zip -temp_dir C:/Users/Vlad/Desktop/miniprocesor/.Xil/Vivado-6640-DESKTOP-6NERFI5 -force -include_local_ip_cache
+INFO: [Coretcl 2-137] starting archive...
+INFO: [Coretcl 2-1499] Saving project copy to temporary location 'C:/Users/Vlad/Desktop/miniprocesor/.Xil/Vivado-6640-DESKTOP-6NERFI5' for archiving project
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [Coretcl 2-1211] Creating project copy for archival...
+INFO: [Coretcl 2-1213] Including run results for 'synth_1'
+INFO: [Coretcl 2-1213] Including run results for 'impl_1'
+INFO: [Coretcl 2-1212] Importing remotely added design sources and verilog include files (if any)...
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'sim_1'
+INFO: [filemgmt 20-334] All file(s) are already imported in fileset: 'sources_1'
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'sources_1'
+INFO: [Coretcl 2-1209] Adding archive summary file to the project...
+INFO: [Coretcl 2-1214] Preparing project files for archive...
+INFO: [Coretcl 2-1210] Compressing project files and data...
+INFO: [Coretcl 2-1215] Project archived (C:/Users/Vlad/Desktop/miniprocesor.xpr.zip)
+INFO: [Coretcl 2-1216] To view the archive summary log in GUI, double click on 'Design Sources->Text->archive_project_summary.txt', or open this file from the archived project directory.
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu May 26 17:13:52 2022...

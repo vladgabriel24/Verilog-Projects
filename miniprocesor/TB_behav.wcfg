@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="266900fs"></ZoomStartTime>
+      <ZoomEndTime time="276651fs"></ZoomEndTime>
+      <Cursor1Time time="356000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="152"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="20" />
+   <wvobject fp_name="/TB/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/addr_r_a" type="array">
+      <obj_property name="ElementShortName">addr_r_a[1:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_r_a[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/addr_r_b" type="array">
+      <obj_property name="ElementShortName">addr_r_b[1:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_r_b[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/addr_w" type="array">
+      <obj_property name="ElementShortName">addr_w[1:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_w[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/write_en_n_data" type="logic">
+      <obj_property name="ElementShortName">write_en_n_data</obj_property>
+      <obj_property name="ObjectShortName">write_en_n_data</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/data_w" type="array">
+      <obj_property name="ElementShortName">data_w[3:0]</obj_property>
+      <obj_property name="ObjectShortName">data_w[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/write_en_n_instr" type="logic">
+      <obj_property name="ElementShortName">write_en_n_instr</obj_property>
+      <obj_property name="ObjectShortName">write_en_n_instr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/sel_mux" type="logic">
+      <obj_property name="ElementShortName">sel_mux</obj_property>
+      <obj_property name="ObjectShortName">sel_mux</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/cnt" type="array">
+      <obj_property name="ElementShortName">cnt[2:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/out_alu" type="array">
+      <obj_property name="ElementShortName">out_alu[3:0]</obj_property>
+      <obj_property name="ObjectShortName">out_alu[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/RAM_data/a" type="array">
+      <obj_property name="ElementShortName">a[3:0]</obj_property>
+      <obj_property name="ObjectShortName">a[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/RAM_data/b" type="array">
+      <obj_property name="ElementShortName">b[3:0]</obj_property>
+      <obj_property name="ObjectShortName">b[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/RAM_data/mem" type="array">
+      <obj_property name="ElementShortName">mem[0:3][3:0]</obj_property>
+      <obj_property name="ObjectShortName">mem[0:3][3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/RAM_instr/data_r" type="array">
+      <obj_property name="ElementShortName">data_r[1:0]</obj_property>
+      <obj_property name="ObjectShortName">data_r[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/RAM_instr/mem" type="array">
+      <obj_property name="ElementShortName">mem[0:7][1:0]</obj_property>
+      <obj_property name="ObjectShortName">mem[0:7][1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/alu/in0" type="array">
+      <obj_property name="ElementShortName">in0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">in0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/alu/in1" type="array">
+      <obj_property name="ElementShortName">in1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">in1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/alu/instr" type="array">
+      <obj_property name="ElementShortName">instr[1:0]</obj_property>
+      <obj_property name="ObjectShortName">instr[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB/DUT/alu/result" type="array">
+      <obj_property name="ElementShortName">result[3:0]</obj_property>
+      <obj_property name="ObjectShortName">result[3:0]</obj_property>
+   </wvobject>
+</wave_config>

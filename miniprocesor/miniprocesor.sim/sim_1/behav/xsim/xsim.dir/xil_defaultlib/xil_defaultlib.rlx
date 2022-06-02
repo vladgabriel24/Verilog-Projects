@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.srcs/sim_1/new/TB.v,1653563779,verilog,,,,TB,,,,,,,,
+C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.srcs/sources_1/new/ALU.v,1653555002,verilog,,C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.srcs/sources_1/new/Counter_32b.v,,ALU,,,,,,,,
+C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.srcs/sources_1/new/Counter_32b.v,1653558059,verilog,,C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.srcs/sources_1/new/Data_RAM.v,,Counter_32b,,,,,,,,
+C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.srcs/sources_1/new/Data_RAM.v,1653552473,verilog,,C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.srcs/sources_1/new/Instr_RAM.v,,Data_RAM,,,,,,,,
+C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.srcs/sources_1/new/Instr_RAM.v,1653552472,verilog,,C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.srcs/sources_1/new/TOP.v,,Instr_RAM,,,,,,,,
+C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.srcs/sources_1/new/TOP.v,1653563355,verilog,,C:/Users/Vlad/Desktop/miniprocesor/miniprocesor.srcs/sim_1/new/TB.v,,TOP,,,,,,,,
