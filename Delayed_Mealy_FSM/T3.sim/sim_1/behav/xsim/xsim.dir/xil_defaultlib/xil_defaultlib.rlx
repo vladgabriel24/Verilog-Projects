@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Vlad/Desktop/T3/T3.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/Vlad/Desktop/T3/T3.srcs/sim_1/new/TB.v,1652703916,verilog,,,,TB,,,,,,,,
+C:/Users/Vlad/Desktop/T3/T3.srcs/sources_1/new/Delayed_Mealy_Autom.v,1652727686,verilog,,C:/Users/Vlad/Desktop/T3/T3.srcs/sim_1/new/TB.v,,Delayed_Mealy_Autom,,,,,,,,
+C:/Users/Vlad/Desktop/T3/T3.srcs/sources_1/new/vlad.v,1652688624,verilog,,C:/Users/Vlad/Desktop/T3/T3.srcs/sim_1/new/TB.v,,vlad,,,,,,,,

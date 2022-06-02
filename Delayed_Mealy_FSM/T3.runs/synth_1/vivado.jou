@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon May 16 22:04:52 2022
+# Process ID: 23204
+# Current directory: C:/Users/Vlad/Desktop/T3/T3.runs/synth_1
+# Command line: vivado.exe -log Delayed_Mealy_Autom.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Delayed_Mealy_Autom.tcl
+# Log file: C:/Users/Vlad/Desktop/T3/T3.runs/synth_1/Delayed_Mealy_Autom.vds
+# Journal file: C:/Users/Vlad/Desktop/T3/T3.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Delayed_Mealy_Autom.tcl -notrace
