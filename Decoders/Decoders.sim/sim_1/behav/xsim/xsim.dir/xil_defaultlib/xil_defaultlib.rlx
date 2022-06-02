@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Vlad/Desktop/Decoders/Decoders.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/Vlad/Desktop/Decoders/Decoders.srcs/sim_1/new/TB.v,1648993650,verilog,,,,TB,,,,,,,,
+C:/Users/Vlad/Desktop/Decoders/Decoders.srcs/sources_1/new/MUX4.v,1648992311,verilog,,C:/Users/Vlad/Desktop/Decoders/Decoders.srcs/sources_1/new/MUX4_2b.v,,MUX4,,,,,,,,
+C:/Users/Vlad/Desktop/Decoders/Decoders.srcs/sources_1/new/MUX4_2b.v,1648992302,verilog,,C:/Users/Vlad/Desktop/Decoders/Decoders.srcs/sources_1/new/Special.v,,MUX4_2b,,,,,,,,
+C:/Users/Vlad/Desktop/Decoders/Decoders.srcs/sources_1/new/Special.v,1648991626,verilog,,C:/Users/Vlad/Desktop/Decoders/Decoders.srcs/sources_1/new/TOP.v,,Special,,,,,,,,
+C:/Users/Vlad/Desktop/Decoders/Decoders.srcs/sources_1/new/TOP.v,1648992658,verilog,,C:/Users/Vlad/Desktop/Decoders/Decoders.srcs/sim_1/new/TB.v,,TOP,,,,,,,,
