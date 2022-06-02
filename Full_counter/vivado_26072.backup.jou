@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue May  3 00:39:43 2022
+# Process ID: 26072
+# Current directory: C:/Users/Vlad/Desktop/Full_counter
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13120 C:\Users\Vlad\Desktop\Full_counter\Full_counter.xpr
+# Log file: C:/Users/Vlad/Desktop/Full_counter/vivado.log
+# Journal file: C:/Users/Vlad/Desktop/Full_counter\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Vlad/Desktop/Full_counter/Full_counter.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source TB.tcl
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+close_design
+open_run impl_1
+close_sim
